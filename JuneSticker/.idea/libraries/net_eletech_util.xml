@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.eletech.util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/net.eletech.util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
