@@ -1,6 +1,6 @@
 # **연습용으로 만든 간단한 프로젝트들**
 ### 📝 JuneSticker
-![image](https://github.com/user-attachments/assets/79de859a-9f86-47c7-988d-7620422ed9d0)
+![image](https://github.com/user-attachments/assets/8f93fa29-96a9-45fe-99d9-87c24ae24db9)
 ![image](https://github.com/user-attachments/assets/cdc5e702-22aa-4e26-a631-b40534f04228)
 
 - 간단한 플레인텍스트형 쪽지 프로그램
